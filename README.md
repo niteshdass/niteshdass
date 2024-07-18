@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Paymattic](https://paymattic.com/)
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **WordPress**
 
-- 💬 Ask me about **React, Vue , Javascript, Wordpress Plugin Development**
+- 💬 Ask me about **React, Vue, Javascript, WordPress Plugin Development**
 
 - 📫 How to reach me **cse33nitesh@gmail.com**
 
